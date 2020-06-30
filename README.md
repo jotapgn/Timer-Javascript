@@ -4,7 +4,8 @@
 
 Cronômetro criado com Javascript, com as opções de pausar e zerar a contagem.
 
-<img src="assets/img/timer.jpg" width="600px">
+
+<img src="assets/img/timer.gif" width="600px">
 
 ## :closed_book:Tecnologias
 
